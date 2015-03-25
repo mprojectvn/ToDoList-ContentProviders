@@ -25,6 +25,7 @@ public class MainActivity extends ListActivity {
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
+        // OK
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
 		updateUI();
